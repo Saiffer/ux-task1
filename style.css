@@ -1,0 +1,122 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.hero-image {
+    min-width: 100%;
+    height: 80vh;
+}
+
+.container-hero{
+    position: relative;
+    text-align: center;
+}
+
+
+.hero-image-text{
+    font-family: 'Grape Nuts', cursive;font-family: 'Grape Nuts', cursive;
+    font-size: 5rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.thumb-container{
+    position: relative;
+    text-align: center;
+}
+
+.thumb-title{
+    font-family: 'Grape Nuts', cursive;font-family: 'Grape Nuts', cursive;
+    font-size: 5rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+}
+
+.navbar-logo-name, h2 {
+    font-family: 'Grape Nuts', cursive;font-family: 'Grape Nuts', cursive;
+    font-size: 3rem;
+}
+
+.navigation-bar {
+    background-color:darkslategray !important;
+    min-width: 100%;
+}
+
+.navigation-bar a, .navbar-text-light {
+    color: #ffffff !important;
+}
+
+.navigation-bar .container-fluid a {
+    font-size: 2rem;
+}
+
+
+h5 {
+    font-size: 5rem;
+}
+
+.main-section{
+    width: 90%;
+    margin: 2% auto;
+}
+
+.thumb{
+    width: 700px;
+    height: 300px;
+}
+
+h2 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wedding-paragraph{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.hero-image-form{
+    font-size: 1rem;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+label, h3 {
+    color:#ffffff;
+}
+
+button{
+    margin-top: 10px;
+}
+
+.bottom-row{
+    padding-top: 2%;
+}
+
+
+
+.hotel-paragraph{
+    font-size: 1.5rem;
+}
